@@ -5,3 +5,5 @@ for(a1 in a){
         console.log(a[a1])
     }
 }
+
+// simply add the != to know the consonants in place of ==
